@@ -1,0 +1,72 @@
+/* Grbr lag riiiiiii */
+
+ /* #home { 
+      height: 519px;  
+    height: 452px;
+    padding: 127px 73px;
+    margin: -29px 113px; 
+ } */
+
+/* baki bubu khud dekh lena ke agr ap srf live 
+server kholo kiya thik lag ri????? */
+/* or han mre laptop me sai lag ri
+ live server pr kholo baki dekha kr
+ bta diya tha me or mra net issue b
+ hoa ra uski wja se shyad ho skta  */
+
+
+
+/* Navigation */
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 23px;
+}
+#home img{
+    width: 100%;
+}
+
+/* Home */
+#home {
+     /* height: 519px;  */
+    height: 370px;
+    padding: 123px 1px;
+    margin: 1px 141px;
+}
+
+#home ::before {
+    height: 480px;
+
+}
+
+#home p {
+    font-size: 13px;
+
+}
+
+#home h1 {
+    font-size: 26px;
+}
+
+h1.h-primary {
+    margin: 33px 132px;
+    padding: 2px 29px;
+    font-size: 41px;
+}
+
+/* Services section */
+#services {
+    flex-direction: column;
+}
+
+/* #services .box {
+
+} */
+
+/* Client */
+#clients {
+    overflow: hidden;
+}
